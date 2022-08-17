@@ -1,2 +1,2 @@
 # Interno
-https://github.com/koscheev/Interno
+https://koscheev.github.io/Interno/
