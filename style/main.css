@@ -636,4 +636,135 @@
     border-right: 0px;
 }
 
+/* blogs */
+.blogs {
+    height: 1345px;
+    margin-top: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 345px;
+    height: 473px;
+}
+.blogs-img {
+    width: 345px;
+    height: 296px;
+    border-radius: 45px 45px 0px 0px;
+}
+.blogs-image-signature {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 125px;
+    height: 44px;
+    margin-top: 223px;
+    margin-left: 24px;
+    border-radius: 8px 8px 8px 0px;
+    background-color: #FFFFFF;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+.blogs-img-background {
+    width: 345px;
+    height: 296px;
+}
+.background-kitchen-top {
+    background: url(/img/Kitchen_Design_Top.svg);
+}
+.background-living-top {
+    background: url(/img/Living_Room_Top.svg);
+}
+.background-minimalist-top {
+    background: url(/img/Minimalist_Interior_Top.svg);
+}
+.background-kitchen-button {
+    background: url(/img/Kitchen_Design_Button.svg);
+}
+.background-living-button {
+    background: url(/img/Living_Room_Button.svg);
+}
+.background-minimalist-button {
+    background: url(/img/Minimalist_Interior_Button.svg);
+}
+.blogs-slogan-text {
+    width: 100%;
+    height: 148px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.blogs-slogan {
+    width: 274px;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 62px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #292F36;
+}
+.blogs-text {
+    width: 589px;
+    margin-top: 21px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+.blogs-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 387px;
+    height: 515px;
+    border: 1px solid #E7E7E7;
+    border-radius: 62px;
+}
+.blogs-card-signature {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #292F36;
+}
+.blogs-arrow {
+    width: 52px;
+    height: 52px;
+}
+.blogs-card-text {
+    height: 52px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    align-items: center;
+    display: flex;
+}
+.blogs-card-text-arrow {
+    display: flex;
+    align-items: center;
+    height: 62px;
+}
 
