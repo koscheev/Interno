@@ -882,6 +882,8 @@
     letter-spacing: 0.22px;
     color: #4D5053;
     list-style-type: none;
+    cursor: pointer;
+    
 }
 .interno-pages-page {
     margin-top: 0px;
