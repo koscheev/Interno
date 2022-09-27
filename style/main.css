@@ -81,7 +81,7 @@
 .main {
     height: 831px;
     padding-top: 195px;
-    background: url(img/Image.svg);
+    background: url(../img/Image.svg);
 }
 .main-block {
     width: 600px;
@@ -678,22 +678,22 @@
     height: 296px;
 }
 .background-kitchen-top {
-    background: url(img/Kitchen_Design_Top.svg);
+    background: url(../img/Kitchen_Design_Top.svg);
 }
 .background-living-top {
-    background: url(img/Living_Room_Top.svg);
+    background: url(../img/Living_Room_Top.svg);
 }
 .background-minimalist-top {
-    background: url(img/Minimalist_Interior_Top.svg);
+    background: url(../img/Minimalist_Interior_Top.svg);
 }
 .background-kitchen-button {
-    background: url(img/Kitchen_Design_Button.svg);
+    background: url(../img/Kitchen_Design_Button.svg);
 }
 .background-living-button {
-    background: url(img/Living_Room_Button.svg);
+    background: url(../img/Living_Room_Button.svg);
 }
 .background-minimalist-button {
-    background: url(img/Minimalist_Interior_Button.svg);
+    background: url(../img/Minimalist_Interior_Button.svg);
 }
 .blogs-slogan-text {
     width: 100%;
